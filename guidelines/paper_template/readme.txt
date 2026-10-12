@@ -1,0 +1,1 @@
+The paper text should go into 68410_project_template.tex; bibliography entries go into 68410bibsample.bib.  You can/should rename either of these files.
